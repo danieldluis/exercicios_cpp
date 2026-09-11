@@ -28,5 +28,6 @@ g++ main.cpp -o main
 
 ## Estrutura
 exercicios/ → enunciado + código para completar
+
 solutions/ → código resolvido
 
