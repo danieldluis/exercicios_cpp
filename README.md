@@ -7,8 +7,7 @@ Exercícios práticos de C++ para completar.
 1. Abre a pasta do exercício e lê o `enunciado.md`.
 2. Completa o código no `main.cpp`.
 3. Compila e testa:
-g++ main.cpp -o main
-./main
+`g++ main.cpp -o main` && `./main`
 4. Verifica a solução em `solutions/`.
 
 ## Lista de exercícios
