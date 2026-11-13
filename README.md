@@ -27,7 +27,7 @@ Exercícios práticos de C++ para completar.
 | 11 | [Sequência de Fibonacci](exercicios/11-seq-fib/) | `while`, variáveis auxiliares, `long long` |	⭐⭐⭐ |
 | 12 | [Inverter um Número](exercicios/12-inverter-numero/) |	`while`, `%`, aritmética, `string`, `int`	| ⭐⭐⭐ |
 | 13 | [Contar Dígitos Primos (2,3,5,7)](exercicios/13-contagem-dig-primos/) |	`while`, `%`, `if/else`, contagem	| ⭐⭐⭐ |
-| 14 | [Média Ponderada (n notas)](exercicios/14-media-ponderada/) |	`cin`, `for`, `double`, vector	| ⭐⭐⭐ |
+| 14 | [Média Ponderada (n notas)](exercicios/14-media-ponderada/) |	`cin`, `for`, `double`, `vector`	| ⭐⭐⭐ |
 | 15 | [Escada de Números (1 a N)](exercicios/15-estrelas/) |	`for` aninhado, `cout`, formatação	| ⭐⭐⭐ |
 | 16 | [Troco de Moedas](exercicios/16-troco-moedas/) | `vector`, `for`, `%`, `/`, algoritmo guloso | ⭐⭐⭐⭐ |
 
