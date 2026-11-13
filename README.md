@@ -24,6 +24,12 @@ Exercícios práticos de C++ para completar.
 | 08 | [Contar Pares](exercicios/08-contar_pares/) | `cin`, `for`, `if/else`, `%` | ⭐⭐ |
 | 09 | [Função: Maior](exercicios/09-funcao_maior/) | funções, `return` | ⭐⭐ |
 | 10 | [Máximo, Mínimo e Média](exercicios/10-max_min_media/) | `cin`, `for`, `if`, `double` | ⭐⭐⭐ |
+| 11 | [Sequência de Fibonacci](exercicios/11-seq-fib/) | `while`, variáveis auxiliares, `long long` |	⭐⭐⭐ |
+| 12 | [Inverter um Número](exercicios/12-inverter-numero/) |	`while`, `%`, aritmética, `string`, `int`	| ⭐⭐⭐ |
+| 13 | [Contar Dígitos Primos (2,3,5,7)](exercicios/13-contagem-dig-primos/) |	`while`, `%`, `if/else`, contagem	| ⭐⭐⭐ |
+| 14 | [Média Ponderada (n notas)](exercicios/14-media-ponderada/) |	`cin`, `for`, `double`, vector	| ⭐⭐⭐ |
+| 15 | [Escada de Números (1 a N)](exercicios/15-estrelas/) |	`for` aninhado, `cout`, formatação	| ⭐⭐⭐ |
+
 
 ## Estrutura
 exercicios/ → enunciado + código para completar
