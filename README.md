@@ -30,6 +30,10 @@ Exercícios práticos de C++ para completar.
 | 14 | [Média Ponderada (n notas)](exercicios/14-media-ponderada/) |	`cin`, `for`, `double`, `vector`	| ⭐⭐⭐ |
 | 15 | [Escada de Números (1 a N)](exercicios/15-estrelas/) |	`for` aninhado, `cout`, formatação	| ⭐⭐⭐ |
 | 16 | [Troco de Moedas](exercicios/16-troco-moedas/) | `vector`, `for`, `%`, `/`, algoritmo guloso | ⭐⭐⭐⭐ |
+| 17 | [Matriz Transposta](exercicios/17-matriz-transposta/) | `vector<vector<int>>`, `for` aninhado | ⭐⭐⭐⭐ |
+| 18 | [Palíndromo](exercicios/18-palindromo/) | `string`, `for`, `s[i]`, `s.size()` | ⭐⭐⭐⭐ |
+| 19 | [Bubble Sort](exercicios/19-bubble-sort/) | `vector`, `for` aninhado, `swap` | ⭐⭐⭐⭐ |
+| 20 | [Busca Binária](exercicios/20-busca-binaria/) | `vector`, `while`, `/`, lógica de intervalos | ⭐⭐⭐⭐ |
 
 ## Estrutura
 exercicios/ → enunciado + código para completar
